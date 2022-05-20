@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_IMC</string>
+    <string name="calculadora_title">Calculadora de I.M.C</string>
+    <string name="num1_edit_text">Altura (ex: 1.70)</string>
+    <string name="num2_edit_text">Peso (ex: 70)</string>
+    <string name="calcular_button">Calcular</string>
+    <string name="resultado_edit_text">Resultado</string>
+    <string name="indice_text">TextView</string>
+    <string name="classifica_o">Classificação</string>
+    <string name="indice_image">TODO</string>
+</resources>
