@@ -92,13 +92,13 @@
 
     <ImageView
         android:id="@+id/indiceImage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="363dp"
+        android:layout_height="169dp"
         android:layout_marginTop="16dp"
+        android:contentDescription="@string/indice_image"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/resultadoEditText"
-        app:srcCompat="@drawable/indice_massa_corporal"
-        android:contentDescription="@string/indice_image" />
+        app:srcCompat="@drawable/indice_massa_corporal" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
